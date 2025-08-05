@@ -527,9 +527,9 @@ padding-bottom: 30px;
     width: 80%;
 }
 }
-.skills-content .right .bars .line.bs::before{
+.skills-content .right .bars .line.wp::before{
   width: 90%;
-  animation: bs 6s ease-in-out infinite 0s; 
+  animation: wp 6s ease-in-out infinite 0s; 
 }
 @keyframes wp{
 0%{
@@ -1445,6 +1445,7 @@ width: 95%;
 width: 100%;
     }
 }
+
 
 
 
