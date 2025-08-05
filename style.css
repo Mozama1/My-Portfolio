@@ -531,12 +531,12 @@ padding-bottom: 30px;
   width: 90%;
   animation: bs 6s ease-in-out infinite 0s; 
 }
-@keyframes bs{
+@keyframes wp{
 0%{
     width: 0%;
 }
 100%{
-    width: 10%;
+    width: 50%;
 }
 }
 
@@ -1445,5 +1445,6 @@ width: 95%;
 width: 100%;
     }
 }
+
 
 
