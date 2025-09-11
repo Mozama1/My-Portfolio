@@ -515,11 +515,11 @@ padding-bottom: 30px;
     width: 50%;
 }
 }
-.skills-content .right .bars .line.rsp::before{
+.skills-content .right .bars .line.tcss::before{
   width: 90%;
-  animation: rsp 6s ease-in-out infinite 0s; 
+  animation: tcss 6s ease-in-out infinite 0s; 
 }
-@keyframes rsp{
+@keyframes tcss{
 0%{
     width: 0%;
 }
@@ -1445,6 +1445,7 @@ width: 95%;
 width: 100%;
     }
 }
+
 
 
 
