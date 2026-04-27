@@ -81,11 +81,10 @@ $('.carousel').owlCarousel({
   }
 });
 let type = new Typed (".typing" , {
-    strings:[" Web Developer" ,"Front End Intern" ,"Web Designer"],
+    strings:["Frontend Developer" ,"Frontend Coder" ,"Frontend Designer"],
     typeSpeed:100,
     backSpeed:60,
-    loop:true
-   
+    loop:true  
 })
 
 

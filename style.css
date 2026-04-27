@@ -481,62 +481,62 @@ padding-bottom: 30px;
 
 .skills-content .right .bars .line.html::before{
   width: 90%;
-  animation: html 6s ease-in-out infinite 0s; 
+  animation: html 4s ease-in-out infinite 0s; 
 }
 @keyframes html{
 0%{
     width: 0%;
 }
 100%{
-    width: 80%;
+    width: 88%;
 }
 } 
 .skills-content .right .bars .line.css::before{
   width: 90%;
-  animation: css 6s ease-in-out infinite 0s; 
+  animation: css 4s ease-in-out infinite 0s; 
 }
 @keyframes css{
 0%{
     width: 0%;
 }
 100%{
-    width: 70%;
+    width: 75%;
 }
 }
 .skills-content .right .bars .line.js::before{
   width: 90%;
-  animation: js 6s ease-in-out infinite 0s; 
+  animation: js 4s ease-in-out infinite 0s; 
 }
 @keyframes js{
 0%{
     width: 0%;
 }
 100%{
-    width: 50%;
+    width: 65%;
 }
 }
 .skills-content .right .bars .line.tcss::before{
   width: 90%;
-  animation: tcss 6s ease-in-out infinite 0s; 
+  animation: tcss 4s ease-in-out infinite 0s; 
 }
 @keyframes tcss{
 0%{
     width: 0%;
 }
 100%{
-    width: 80%;
+    width: 85%;
 }
 }
-.skills-content .right .bars .line.wp::before{
+.skills-content .right .bars .line.rj::before{
   width: 90%;
-  animation: wp 6s ease-in-out infinite 0s; 
+  animation: rj 4s ease-in-out infinite 0s; 
 }
-@keyframes wp{
+@keyframes rj{
 0%{
     width: 0%;
 }
 100%{
-    width: 10%;
+    width: 70%;
 }
 }
 
